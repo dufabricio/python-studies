@@ -45,3 +45,8 @@ Start the Django Server
 ```
 django-admin startproject editdojo_project 
 ```
+
+Creating a new app for django project
+```
+python manage.py startapp hello
+```
