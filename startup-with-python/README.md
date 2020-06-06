@@ -50,3 +50,9 @@ Creating a new app for django project
 ```
 python manage.py startapp hello
 ```
+
+Creating migrations from Models
+``` 
+python manage.py migrate
+python manage.py makemigrations
+```
